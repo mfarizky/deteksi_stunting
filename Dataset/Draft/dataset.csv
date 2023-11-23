@@ -1,0 +1,625 @@
+,JK,usia ukur,Berat,Tinggi,ZS BB/U,ZS TB/U,ZS BB/TB,BB/U,TB/U,BB/TB
+0,0,58,13.1,97.5,0.52,1.24,-0.53,Normal,Normal,Gizi Baik
+1,1,57,12.2,98.5,-1.94,-0.89,-1.87,Normal,Normal,Gizi Baik
+2,1,56,12.6,95.5,-1.43,-1.15,-0.95,Normal,Normal,Gizi Baik
+3,0,55,14.2,99.3,-1.42,-1.96,-0.4,Normal,Normal,Gizi Baik
+4,1,53,13.2,97.0,-1.38,-1.18,-0.97,Normal,Normal,Gizi Baik
+5,1,52,20.3,108.3,0.11,0.71,-0.26,Normal,Normal,Gizi Baik
+6,0,48,14.8,98.5,-0.71,-0.65,-0.51,Normal,Normal,Gizi Baik
+7,1,46,10.3,92.0,0.39,0.39,0.29,Normal,Normal,Gizi Baik
+8,0,46,14.8,98.0,-1.87,-2.69,-0.82,Normal,Pendek,Gizi Baik
+9,1,41,12.2,93.0,-1.7,-0.43,-2.05,Normal,Normal,Gizi Kurang
+10,0,41,12.0,91.5,-2.38,-2.97,-1.21,Kurang,Pendek,Gizi Baik
+11,0,41,11.5,92.0,-1.49,-1.12,-1.3,Normal,Normal,Gizi Baik
+12,0,41,12.1,94.5,-0.91,-0.88,-0.63,Normal,Normal,Gizi Baik
+13,1,40,20.8,101.0,0.2,-0.07,0.3,Normal,Normal,Gizi Baik
+14,1,40,13.3,94.2,0.04,-1.82,1.24,Normal,Normal,Risiko Gizi Lebih
+15,1,38,11.4,88.0,-2.03,-1.16,-1.98,Kurang,Normal,Gizi Baik
+16,1,35,12.4,92.0,-1.14,-2.35,0.04,Normal,Pendek,Gizi Baik
+17,0,35,11.0,86.6,-2.67,-2.96,-1.48,Kurang,Pendek,Gizi Baik
+18,0,34,10.5,85.5,-0.92,-0.36,-1.08,Normal,Normal,Gizi Baik
+19,1,34,11.9,91.0,-2.1,-1.88,-1.47,Kurang,Normal,Gizi Baik
+20,1,33,9.5,84.1,-0.27,1.05,-1.29,Normal,Normal,Gizi Baik
+21,1,32,8.9,79.0,-1.41,-1.16,-1.11,Normal,Normal,Gizi Baik
+22,0,31,10.6,88.0,-2.02,-2.38,-1.03,Kurang,Pendek,Gizi Baik
+23,1,28,10.3,81.5,-3.24,-3.23,-2.15,Sangat Kurang,Sangat Pendek,Gizi Kurang
+24,1,27,11.3,85.0,0.04,-2.1,1.65,Normal,Pendek,Risiko Gizi Lebih
+25,1,24,9.6,84.0,-2.11,-1.91,-1.57,Kurang,Normal,Gizi Baik
+26,1,23,8.3,78.5,-2.27,-1.6,-2.11,Kurang,Normal,Gizi Kurang
+27,1,22,8.2,80.5,-2.52,-3.05,-1.15,Kurang,Sangat Pendek,Gizi Baik
+28,1,22,11.1,87.0,-1.35,-1.04,-1.14,Normal,Normal,Gizi Baik
+29,1,22,9.5,80.0,-1.83,-2.09,-1.02,Normal,Pendek,Gizi Baik
+30,1,21,9.5,73.0,-0.8,-1.43,-0.04,Normal,Normal,Gizi Baik
+31,0,21,8.7,78.5,-2.49,-2.27,-1.62,Kurang,Pendek,Gizi Baik
+32,0,21,10.1,80.2,-0.91,0.11,-1.46,Normal,Normal,Gizi Baik
+33,0,20,8.3,77.0,-1.67,-1.58,-1.14,Normal,Normal,Gizi Baik
+34,0,18,9.3,80.0,-1.22,-1.27,-0.77,Normal,Normal,Gizi Baik
+35,0,16,9.3,78.0,-1.19,-0.79,-1.16,Normal,Normal,Gizi Baik
+36,1,15,9.2,74.0,-3.6,-2.58,-3.03,Sangat Kurang,Pendek,Gizi Buruk
+37,0,15,7.5,75.0,-1.31,-1.03,-1.04,Normal,Normal,Gizi Baik
+38,0,13,7.3,70.5,-1.97,-1.77,-1.36,Normal,Normal,Gizi Baik
+39,0,13,8.7,70.0,-2.16,-1.57,-1.92,Kurang,Normal,Gizi Baik
+40,1,13,8.3,75.0,0.52,-0.57,1.31,Normal,Normal,Risiko Gizi Lebih
+41,0,13,9.9,75.5,-0.81,-0.97,-0.31,Normal,Normal,Gizi Baik
+42,0,13,7.7,73.0,-1.76,-1.37,-1.45,Normal,Normal,Gizi Baik
+43,1,12,5.3,63.9,-2.86,-2.74,-1.74,Kurang,Pendek,Gizi Baik
+44,0,12,8.1,75.0,-1.09,-1.01,-0.7,Normal,Normal,Gizi Baik
+45,1,12,8.0,73.0,-1.0,-1.24,-0.38,Normal,Normal,Gizi Baik
+46,0,12,8.5,75.0,-1.26,-1.44,-0.54,Normal,Normal,Gizi Baik
+47,0,11,6.4,70.5,-0.85,0.25,-1.62,Normal,Normal,Gizi Baik
+48,0,10,9.8,66.0,-2.38,-2.31,-1.42,Kurang,Pendek,Gizi Baik
+49,0,10,7.8,75.0,-0.58,-0.12,-0.85,Normal,Normal,Gizi Baik
+50,0,10,7.3,72.0,-0.59,0.3,-1.17,Normal,Normal,Gizi Baik
+51,0,9,7.6,71.0,-1.31,-1.19,-0.47,Normal,Normal,Gizi Baik
+52,0,9,8.2,70.0,-0.28,0.12,-0.45,Normal,Normal,Gizi Baik
+53,0,8,7.4,69.0,0.58,-0.67,1.42,Normal,Normal,Risiko Gizi Lebih
+54,0,7,8.4,66.5,-2.44,-2.32,-1.15,Kurang,Pendek,Gizi Baik
+55,0,4,5.3,58.0,-2.72,-2.28,-1.74,Kurang,Pendek,Gizi Baik
+56,1,5,6.4,62.0,-1.58,-0.93,-1.31,Normal,Normal,Gizi Baik
+57,0,1,4.5,57.0,1.91,2.76,0.97,Risiko Lebih,Normal,Gizi Baik
+58,1,60,12.3,100.0,-3.9,-2.88,-3.41,Sangat Kurang,Pendek,Gizi Buruk
+59,0,60,21.5,107.0,-0.96,-1.79,-0.05,Normal,Normal,Gizi Baik
+60,0,59,15.2,107.0,-0.55,-2.33,0.86,Normal,Pendek,Gizi Baik
+61,1,59,12.8,99.0,-2.0,-2.01,-1.43,Kurang,Pendek,Gizi Baik
+62,1,59,14.0,100.0,-2.23,-2.17,-1.69,Kurang,Pendek,Gizi Baik
+63,1,58,14.2,102.0,-1.64,-1.21,-1.5,Normal,Normal,Gizi Baik
+64,0,58,13.2,99.0,-2.15,-2.74,-1.08,Kurang,Pendek,Gizi Baik
+65,1,56,12.2,98.0,-0.24,-1.03,0.34,Normal,Normal,Gizi Baik
+66,1,56,13.0,99.5,-1.89,-2.22,-1.16,Normal,Pendek,Gizi Baik
+67,0,56,15.3,106.3,-1.3,-1.55,-0.74,Normal,Normal,Gizi Baik
+68,1,55,13.0,96.0,-2.81,-2.25,-2.42,Kurang,Pendek,Gizi Kurang
+69,1,54,12.5,98.0,-1.42,-1.19,-1.1,Normal,Normal,Gizi Baik
+70,1,53,13.9,101.5,-2.92,-2.49,-2.29,Kurang,Pendek,Gizi Kurang
+71,0,52,12.8,95.5,-2.61,-3.4,-1.1,Kurang,Sangat Pendek,Gizi Baik
+72,1,51,10.5,85.0,-0.87,-2.32,0.61,Normal,Pendek,Gizi Baik
+73,1,49,12.0,93.5,-2.39,-2.4,-1.53,Kurang,Pendek,Gizi Baik
+74,1,49,12.2,94.0,-1.17,-0.19,-1.61,Normal,Normal,Gizi Baik
+75,0,48,12.7,96.5,-2.16,-2.27,-1.32,Kurang,Pendek,Gizi Baik
+76,0,47,12.4,96.0,-1.99,-1.96,-1.4,Normal,Normal,Gizi Baik
+77,1,46,10.7,86.5,-2.26,-2.57,-1.01,Kurang,Pendek,Gizi Baik
+78,1,45,13.7,98.5,-1.66,-2.99,0.08,Normal,Pendek,Gizi Baik
+79,1,44,12.5,97.0,-2.23,-1.55,-2.15,Kurang,Normal,Gizi Kurang
+80,1,43,11.3,90.5,-0.98,-2.74,0.88,Normal,Pendek,Gizi Baik
+81,1,42,8.4,82.0,-2.26,-1.46,-2.27,Kurang,Normal,Gizi Kurang
+82,0,41,12.0,90.0,-1.62,-1.79,-0.86,Normal,Normal,Gizi Baik
+83,0,41,12.3,92.5,-1.33,-4.33,1.84,Normal,Sangat Pendek,Risiko Gizi Lebih
+84,1,40,10.8,83.0,-1.9,-2.02,-1.05,Normal,Pendek,Gizi Baik
+85,0,39,12.5,92.0,-1.23,-1.03,-0.96,Normal,Normal,Gizi Baik
+86,1,38,10.3,86.8,-2.04,-1.19,-2.14,Kurang,Normal,Gizi Kurang
+87,1,38,10.7,90.0,-1.83,-1.83,-1.24,Normal,Normal,Gizi Baik
+88,1,38,11.2,89.5,-1.39,-0.54,-1.6,Normal,Normal,Gizi Baik
+89,0,37,12.5,91.0,-0.13,-0.6,0.35,Normal,Normal,Gizi Baik
+90,1,35,11.0,88.0,-1.17,-0.94,-0.93,Normal,Normal,Gizi Baik
+91,0,35,11.3,91.0,-2.16,-1.76,-1.8,Kurang,Normal,Gizi Baik
+92,1,33,10.5,89.5,-1.32,-1.82,-0.39,Normal,Normal,Gizi Baik
+93,1,33,13.0,88.5,-2.39,-2.41,-1.57,Kurang,Pendek,Gizi Baik
+94,0,32,11.3,89.5,1.04,-0.67,2.1,Risiko Lebih,Normal,Gizi Lebih
+95,0,32,12.0,86.0,-2.44,-1.74,-2.07,Kurang,Normal,Gizi Kurang
+96,1,32,10.5,88.5,-0.6,-1.72,0.6,Normal,Normal,Gizi Baik
+97,0,31,9.8,85.0,-1.72,-0.94,-1.72,Normal,Normal,Gizi Baik
+98,1,30,10.5,87.0,-2.33,-2.58,-1.26,Kurang,Pendek,Gizi Baik
+99,1,30,10.6,85.0,-0.98,-1.38,-0.21,Normal,Normal,Gizi Baik
+100,0,30,8.9,84.0,-0.69,-1.02,-0.1,Normal,Normal,Gizi Baik
+101,0,29,10.5,85.5,-2.46,-2.29,-1.7,Kurang,Pendek,Gizi Baik
+102,1,29,11.4,86.0,-1.08,-1.46,-0.28,Normal,Normal,Gizi Baik
+103,1,29,9.3,82.0,-1.93,-2.83,-0.33,Normal,Pendek,Gizi Baik
+104,0,28,9.2,81.5,-3.1,-2.7,-2.36,Sangat Kurang,Pendek,Gizi Kurang
+105,0,27,10.2,81.5,-2.42,-1.73,-2.16,Kurang,Normal,Gizi Kurang
+106,0,27,9.5,82.2,-1.98,-2.15,-1.05,Normal,Pendek,Gizi Baik
+107,0,27,8.7,79.0,-2.32,-1.93,-1.82,Kurang,Normal,Gizi Baik
+108,1,27,10.2,84.0,-1.03,-2.1,0.43,Normal,Pendek,Gizi Baik
+109,0,26,12.3,88.0,-0.94,-0.63,-0.87,Normal,Normal,Gizi Baik
+110,0,24,9.9,83.5,1.84,-0.03,2.84,Risiko Lebih,Normal,Gizi Lebih
+111,1,24,9.6,81.5,-1.54,-2.16,-0.31,Normal,Pendek,Gizi Baik
+112,0,23,10.0,78.5,-0.64,-0.93,0.37,Normal,Normal,Gizi Baik
+113,0,22,9.0,79.0,0.71,-0.44,1.49,Normal,Normal,Risiko Gizi Lebih
+114,1,22,8.8,80.0,-0.87,-2.04,0.82,Normal,Pendek,Gizi Baik
+115,1,22,10.8,83.0,-0.58,0.35,-0.97,Normal,Normal,Gizi Baik
+116,1,22,8.4,77.0,-1.66,-1.3,-1.12,Normal,Normal,Gizi Baik
+117,1,21,10.0,82.0,-2.94,-4.74,0.41,Kurang,Sangat Pendek,Gizi Baik
+118,1,21,10.6,81.5,-1.04,0.11,-1.43,Normal,Normal,Gizi Baik
+119,1,21,9.1,81.0,-2.76,-2.48,-1.79,Kurang,Pendek,Gizi Baik
+120,0,20,10.4,82.0,-0.28,-3.88,2.78,Normal,Sangat Pendek,Gizi Lebih
+121,1,20,9.9,80.0,-2.06,-2.69,-0.7,Kurang,Pendek,Gizi Baik
+122,1,19,8.5,78.0,-1.26,-4.1,1.54,Normal,Sangat Pendek,Risiko Gizi Lebih
+123,1,19,9.7,73.0,0.69,-1.71,2.05,Normal,Normal,Gizi Lebih
+124,1,19,9.4,78.5,-0.71,-3.56,1.49,Normal,Sangat Pendek,Risiko Gizi Lebih
+125,1,19,8.3,72.0,-1.12,-2.69,0.24,Normal,Pendek,Gizi Baik
+126,0,17,8.2,77.0,-1.58,-0.72,-1.74,Normal,Normal,Gizi Baik
+127,1,15,9.4,75.0,-1.38,-3.12,0.22,Normal,Sangat Pendek,Gizi Baik
+128,1,14,7.7,74.0,-2.16,-0.48,-2.66,Kurang,Normal,Gizi Kurang
+129,0,14,8.4,76.0,-1.46,-1.14,-1.26,Normal,Normal,Gizi Baik
+130,1,12,8.0,70.0,1.55,-2.08,3.23,Risiko Lebih,Pendek,Obesitas
+131,1,11,7.7,69.0,-1.05,0.28,-1.67,Normal,Normal,Gizi Baik
+132,0,9,7.3,70.5,-1.25,-1.13,-0.95,Normal,Normal,Gizi Baik
+133,0,9,7.2,62.0,-0.72,-3.03,1.04,Normal,Sangat Pendek,Risiko Gizi Lebih
+134,0,6,8.1,69.5,-2.51,-2.08,-1.94,Kurang,Pendek,Gizi Baik
+135,1,6,8.5,68.0,-0.7,-0.26,-0.81,Normal,Normal,Gizi Baik
+136,0,4,6.8,64.0,-1.76,-2.08,-0.85,Normal,Pendek,Gizi Baik
+137,1,3,4.7,58.5,-3.37,-3.17,-2.16,Sangat Kurang,Sangat Pendek,Gizi Kurang
+138,0,2,4.5,56.0,-1.67,-0.99,-1.62,Normal,Normal,Gizi Baik
+139,0,1,4.7,56.0,-1.42,-0.7,-1.53,Normal,Normal,Gizi Baik
+140,1,58,14.0,100.5,-0.58,-1.13,0.0,Normal,Normal,Gizi Baik
+141,0,57,12.7,99.0,-0.05,-2.06,1.51,Normal,Pendek,Risiko Gizi Lebih
+142,1,56,14.2,102.2,-0.96,-0.82,-0.78,Normal,Normal,Gizi Baik
+143,1,55,17.9,107.9,-2.67,-2.13,-1.97,Kurang,Pendek,Gizi Baik
+144,0,54,13.6,98.0,-2.13,-2.37,-1.03,Kurang,Pendek,Gizi Baik
+145,1,53,12.9,95.0,-0.91,-1.2,-0.39,Normal,Normal,Gizi Baik
+146,0,52,12.5,98.0,-1.01,-0.59,-1.04,Normal,Normal,Gizi Baik
+147,0,50,13.0,89.0,-0.57,-2.15,0.91,Normal,Pendek,Gizi Baik
+148,1,50,12.5,98.5,-3.38,-3.09,-2.11,Sangat Kurang,Sangat Pendek,Gizi Kurang
+149,0,48,14.1,97.0,-1.21,-1.98,-0.11,Normal,Normal,Gizi Baik
+150,1,47,14.4,98.0,-3.25,-3.66,-1.35,Sangat Kurang,Sangat Pendek,Gizi Baik
+151,1,46,11.7,92.5,-1.0,-1.51,-0.21,Normal,Normal,Gizi Baik
+152,1,46,14.1,95.0,-2.21,-2.01,-1.5,Kurang,Pendek,Gizi Baik
+153,1,43,12.1,90.0,-2.32,-2.06,-1.61,Kurang,Pendek,Gizi Baik
+154,0,42,11.2,85.0,-1.42,-1.41,-0.89,Normal,Normal,Gizi Baik
+155,1,38,14.0,88.0,-1.59,-0.99,-1.49,Normal,Normal,Gizi Baik
+156,1,37,13.0,94.5,-1.8,-1.45,-1.4,Normal,Normal,Gizi Baik
+157,0,36,13.0,96.0,-2.71,-2.42,-1.83,Kurang,Pendek,Gizi Baik
+158,0,35,10.6,87.0,-0.89,-1.92,0.35,Normal,Normal,Gizi Baik
+159,1,34,11.0,85.9,-2.16,-1.71,-1.8,Kurang,Normal,Gizi Baik
+160,0,32,10.0,86.5,-3.25,-2.49,-2.88,Sangat Kurang,Pendek,Gizi Kurang
+161,0,31,10.0,88.0,-2.79,-3.06,-1.55,Kurang,Sangat Pendek,Gizi Baik
+162,1,31,9.2,83.0,-1.84,-2.26,-0.77,Normal,Pendek,Gizi Baik
+163,0,29,9.8,84.5,-0.48,-0.06,-0.65,Normal,Normal,Gizi Baik
+164,1,26,10.0,85.0,-1.88,-2.64,-0.46,Normal,Pendek,Gizi Baik
+165,1,26,10.8,84.0,-1.61,-1.28,-1.23,Normal,Normal,Gizi Baik
+166,1,25,9.2,82.0,-1.46,-1.99,-0.36,Normal,Normal,Gizi Baik
+167,0,25,9.3,80.0,-2.47,-1.85,-2.0,Kurang,Normal,Gizi Kurang
+168,1,25,9.7,80.0,-1.38,-1.74,-0.45,Normal,Normal,Gizi Baik
+169,1,25,10.2,84.5,-1.77,-1.38,-1.46,Normal,Normal,Gizi Baik
+170,1,22,10.2,84.0,-2.09,-2.57,-0.8,Kurang,Pendek,Gizi Baik
+171,1,22,11.2,81.0,-1.19,-5.51,5.44,Normal,Sangat Pendek,Obesitas
+172,1,21,8.3,76.0,-0.34,-0.98,0.44,Normal,Normal,Gizi Baik
+173,1,19,9.0,77.5,-0.75,-1.09,-0.04,Normal,Normal,Gizi Baik
+174,1,15,8.8,73.0,-1.97,-2.27,-0.58,Normal,Pendek,Gizi Baik
+175,0,14,8.8,76.5,-0.21,-1.2,0.73,Normal,Normal,Gizi Baik
+176,1,10,8.4,72.5,-0.24,-0.58,0.2,Normal,Normal,Gizi Baik
+177,0,10,7.9,70.0,-0.99,-1.04,-0.46,Normal,Normal,Gizi Baik
+178,1,8,8.4,70.0,-0.49,-3.96,2.87,Normal,Sangat Pendek,Gizi Lebih
+179,0,6,6.5,65.5,-0.24,-1.21,0.67,Normal,Normal,Gizi Baik
+180,0,3,7.3,62.0,0.14,0.05,0.23,Normal,Normal,Gizi Baik
+181,0,2,5.4,57.0,-0.31,0.83,-0.92,Normal,Normal,Gizi Baik
+182,0,59,14.7,102.0,-0.46,-0.61,-0.22,Normal,Normal,Gizi Baik
+183,0,59,16.5,102.0,-0.61,0.21,-0.94,Normal,Normal,Gizi Baik
+184,1,57,13.0,95.0,0.53,-1.09,1.4,Normal,Normal,Risiko Gizi Lebih
+185,0,57,15.4,104.2,-0.5,0.18,-0.81,Normal,Normal,Gizi Baik
+186,1,57,16.4,101.7,-0.79,-0.97,-0.48,Normal,Normal,Gizi Baik
+187,1,57,14.4,99.0,0.16,-2.35,1.66,Normal,Pendek,Risiko Gizi Lebih
+188,0,56,13.4,98.0,-1.17,-2.51,0.0,Normal,Pendek,Gizi Baik
+189,1,55,13.0,95.5,-2.42,-2.52,-1.71,Kurang,Pendek,Gizi Baik
+190,1,54,11.9,95.0,0.15,0.48,-0.12,Normal,Normal,Gizi Baik
+191,1,52,14.5,96.0,-0.92,-0.71,-0.75,Normal,Normal,Gizi Baik
+192,1,50,12.2,96.0,-2.16,-0.29,-2.84,Kurang,Normal,Gizi Kurang
+193,1,50,16.0,99.5,-1.55,-2.64,-0.3,Normal,Pendek,Gizi Baik
+194,1,50,13.8,102.3,-3.04,-2.85,-2.34,Sangat Kurang,Pendek,Gizi Kurang
+195,1,49,13.4,96.0,-0.6,-2.63,0.92,Normal,Pendek,Gizi Baik
+196,0,49,13.1,95.0,-1.64,-2.13,-0.78,Normal,Pendek,Gizi Baik
+197,0,49,13.4,99.0,-1.31,-0.99,-1.11,Normal,Normal,Gizi Baik
+198,0,48,12.8,98.5,-2.73,-3.62,-1.21,Kurang,Sangat Pendek,Gizi Baik
+199,0,44,13.2,95.5,-0.62,-1.47,0.23,Normal,Normal,Gizi Baik
+200,0,43,11.4,92.0,-1.2,-3.5,0.88,Normal,Sangat Pendek,Gizi Baik
+201,1,43,11.1,91.5,-1.55,-1.97,-0.62,Normal,Normal,Gizi Baik
+202,0,42,11.4,90.0,-1.69,-3.0,-0.09,Normal,Sangat Pendek,Gizi Baik
+203,1,41,14.5,96.0,-1.56,-2.23,-0.39,Normal,Pendek,Gizi Baik
+204,1,41,11.6,90.0,-1.25,-1.52,-0.59,Normal,Normal,Gizi Baik
+205,1,40,14.0,94.8,-0.2,-2.11,1.33,Normal,Pendek,Risiko Gizi Lebih
+206,1,40,12.4,93.0,-1.49,-2.7,0.1,Normal,Pendek,Gizi Baik
+207,1,40,13.1,90.8,-2.04,-3.07,-0.45,Kurang,Sangat Pendek,Gizi Baik
+208,0,39,11.0,91.5,-1.06,-0.5,-1.2,Normal,Normal,Gizi Baik
+209,0,38,10.3,87.0,-0.06,-1.68,1.18,Normal,Normal,Risiko Gizi Lebih
+210,1,35,14.2,92.5,-2.27,-2.85,-0.76,Kurang,Pendek,Gizi Baik
+211,0,35,13.4,89.0,-1.73,-2.15,-0.81,Normal,Pendek,Gizi Baik
+212,0,35,12.6,91.5,0.69,-0.44,1.28,Normal,Normal,Risiko Gizi Lebih
+213,0,34,11.9,89.8,-2.21,-2.8,-0.92,Kurang,Pendek,Gizi Baik
+214,0,34,10.2,86.0,-0.29,-1.98,1.2,Normal,Normal,Risiko Gizi Lebih
+215,1,33,14.6,94.3,-0.31,-0.37,-0.12,Normal,Normal,Gizi Baik
+216,1,32,11.2,87.5,-0.83,-1.97,0.45,Normal,Normal,Gizi Baik
+217,1,31,10.4,88.5,-2.05,-2.05,-1.36,Kurang,Pendek,Gizi Baik
+218,0,31,11.3,88.0,-1.8,-1.86,-1.04,Normal,Normal,Gizi Baik
+219,1,31,12.4,86.0,-0.64,-0.99,-0.1,Normal,Normal,Gizi Baik
+220,1,30,10.1,83.0,-0.4,-0.45,-0.18,Normal,Normal,Gizi Baik
+221,0,27,8.3,80.0,-1.48,-1.45,-0.9,Normal,Normal,Gizi Baik
+222,1,24,10.4,81.8,-1.25,-1.87,-0.16,Normal,Normal,Gizi Baik
+223,1,23,10.5,84.5,-1.21,-0.57,-1.31,Normal,Normal,Gizi Baik
+224,0,22,8.8,82.0,-1.76,-1.53,-1.23,Normal,Normal,Gizi Baik
+225,1,21,8.4,79.0,-1.07,-1.45,-0.25,Normal,Normal,Gizi Baik
+226,1,21,9.5,81.0,-1.3,-1.8,-0.31,Normal,Normal,Gizi Baik
+227,0,18,8.2,75.5,-0.14,-0.98,0.71,Normal,Normal,Gizi Baik
+228,0,16,9.1,79.5,-1.18,-2.48,0.57,Normal,Pendek,Gizi Baik
+229,0,15,9.0,76.5,-0.89,-1.97,0.53,Normal,Normal,Gizi Baik
+230,0,12,7.8,74.0,1.14,2.02,-0.53,Risiko Lebih,Normal,Gizi Baik
+231,0,11,11.2,75.5,0.0,0.18,-0.14,Normal,Normal,Gizi Baik
+232,1,10,8.1,70.0,-0.13,-0.1,-0.02,Normal,Normal,Gizi Baik
+233,0,10,8.6,69.5,-2.04,-2.1,-0.86,Kurang,Pendek,Gizi Baik
+234,0,10,6.7,68.5,-0.19,0.66,-0.64,Normal,Normal,Gizi Baik
+235,1,9,8.1,69.5,0.21,1.15,-0.39,Normal,Normal,Gizi Baik
+236,0,8,6.4,62.5,-1.03,-0.74,-0.79,Normal,Normal,Gizi Baik
+237,1,7,7.6,71.0,-0.63,-1.25,0.1,Normal,Normal,Gizi Baik
+238,0,6,6.5,62.5,-1.12,-0.74,-0.96,Normal,Normal,Gizi Baik
+239,1,57,16.4,104.0,0.1,1.43,-0.63,Normal,Normal,Gizi Baik
+240,0,53,13.9,99.7,-0.28,-0.08,-0.33,Normal,Normal,Gizi Baik
+241,0,52,14.4,99.5,-0.55,0.8,-1.51,Normal,Normal,Gizi Baik
+242,1,52,13.3,97.0,-1.89,-2.4,-0.72,Normal,Pendek,Gizi Baik
+243,1,51,14.0,95.0,-0.66,-0.44,-0.69,Normal,Normal,Gizi Baik
+244,0,46,13.0,99.0,-2.17,-2.98,-0.5,Kurang,Pendek,Gizi Baik
+245,1,44,15.0,92.0,-1.36,-1.67,-0.59,Normal,Normal,Gizi Baik
+246,1,44,12.4,94.0,-0.4,-3.51,2.53,Normal,Sangat Pendek,Gizi Lebih
+247,0,44,13.6,99.1,-0.71,-1.23,0.07,Normal,Normal,Gizi Baik
+248,0,44,12.3,96.0,-1.74,-1.83,-0.92,Normal,Normal,Gizi Baik
+249,1,43,12.4,95.5,-1.69,-1.71,-0.96,Normal,Normal,Gizi Baik
+250,0,43,13.0,98.0,-2.57,-2.78,-1.39,Kurang,Pendek,Gizi Baik
+251,0,42,14.0,99.0,-0.92,-2.06,0.56,Normal,Pendek,Gizi Baik
+252,0,39,12.8,95.5,-0.09,1.25,-1.45,Normal,Normal,Gizi Baik
+253,1,32,12.0,91.0,-0.67,-0.51,-0.42,Normal,Normal,Gizi Baik
+254,1,29,11.4,85.0,-0.8,-0.97,-0.31,Normal,Normal,Gizi Baik
+255,1,28,9.5,85.0,-1.14,-0.39,-1.26,Normal,Normal,Gizi Baik
+256,0,28,9.6,87.5,-0.25,0.12,-0.39,Normal,Normal,Gizi Baik
+257,0,30,13.7,89.0,-2.21,-1.73,-1.91,Kurang,Normal,Gizi Baik
+258,0,25,8.9,81.0,-2.09,-1.55,-1.72,Kurang,Normal,Gizi Baik
+259,0,24,11.7,84.5,-4.07,-4.01,-2.99,Sangat Kurang,Sangat Pendek,Gizi Kurang
+260,0,22,9.7,83.0,-2.75,-2.07,-2.4,Kurang,Pendek,Gizi Kurang
+261,1,20,9.6,81.0,-0.66,-0.84,-0.35,Normal,Normal,Gizi Baik
+262,1,19,9.4,81.5,-2.14,-1.38,-2.15,Kurang,Normal,Gizi Kurang
+263,0,19,10.0,75.0,-0.67,-0.66,-0.47,Normal,Normal,Gizi Baik
+264,0,19,9.5,81.0,-0.02,-0.74,0.5,Normal,Normal,Gizi Baik
+265,0,18,13.7,90.0,-2.24,-1.43,-2.26,Kurang,Normal,Gizi Kurang
+266,0,18,9.8,82.0,-1.47,-1.99,-0.52,Normal,Normal,Gizi Baik
+267,1,17,12.2,84.1,-1.4,-1.71,-0.6,Normal,Normal,Gizi Baik
+268,1,17,9.9,78.5,-2.14,-2.0,-1.49,Kurang,Pendek,Gizi Baik
+269,1,15,9.7,74.1,-2.37,-1.91,-1.92,Kurang,Normal,Gizi Baik
+270,0,14,9.2,78.0,-1.85,-0.42,-2.41,Normal,Normal,Gizi Kurang
+271,0,12,7.6,71.0,-1.47,-2.56,0.17,Normal,Pendek,Gizi Baik
+272,0,11,8.1,71.5,-2.37,-1.88,-1.16,Kurang,Normal,Gizi Baik
+273,1,10,9.0,75.0,0.03,-0.23,0.37,Normal,Normal,Gizi Baik
+274,1,10,9.0,73.0,-2.45,-1.56,-1.53,Kurang,Normal,Gizi Baik
+275,0,10,8.4,71.5,0.09,-1.18,1.32,Normal,Normal,Risiko Gizi Lebih
+276,1,7,8.4,70.5,-1.49,-1.52,-0.62,Normal,Normal,Gizi Baik
+277,0,7,6.8,70.0,0.24,-0.01,0.39,Normal,Normal,Gizi Baik
+278,0,6,8.8,72.5,-1.83,-2.98,0.41,Normal,Pendek,Gizi Baik
+279,1,5,6.1,62.0,-1.65,-2.14,-0.23,Normal,Pendek,Gizi Baik
+280,0,2,5.0,56.5,0.68,0.69,0.49,Normal,Normal,Gizi Baik
+281,0,59,14.0,99.5,0.86,0.82,0.64,Normal,Normal,Gizi Baik
+282,1,58,12.8,97.8,0.76,1.33,0.18,Normal,Normal,Gizi Baik
+283,0,57,17.9,104.0,-1.02,-0.86,-0.61,Normal,Normal,Gizi Baik
+284,0,56,14.3,101.0,1.52,3.05,0.22,Risiko Lebih,Tinggi,Gizi Baik
+285,0,56,14.0,93.5,0.3,1.22,-0.31,Normal,Normal,Gizi Baik
+286,0,56,14.2,99.5,-1.54,-0.64,-1.6,Normal,Normal,Gizi Baik
+287,1,55,13.3,95.0,0.63,1.36,0.06,Normal,Normal,Gizi Baik
+288,1,54,12.2,94.0,-1.51,-0.41,-1.78,Normal,Normal,Gizi Baik
+289,0,53,13.4,95.5,-0.65,-0.57,-0.53,Normal,Normal,Gizi Baik
+290,1,52,13.0,94.0,-1.93,-2.06,-1.27,Normal,Pendek,Gizi Baik
+291,1,52,16.5,100.5,-1.22,-1.61,-0.63,Normal,Normal,Gizi Baik
+292,1,52,17.2,104.0,-1.33,-1.8,-0.64,Normal,Normal,Gizi Baik
+293,0,51,13.4,95.5,-0.77,-1.89,0.15,Normal,Normal,Gizi Baik
+294,0,51,13.4,97.5,-1.76,-2.45,-0.78,Normal,Pendek,Gizi Baik
+295,0,49,12.0,91.0,-0.15,-0.94,0.37,Normal,Normal,Gizi Baik
+296,0,49,15.5,95.5,0.68,-0.34,1.15,Normal,Normal,Risiko Gizi Lebih
+297,1,48,12.3,91.5,-1.16,-0.66,-1.11,Normal,Normal,Gizi Baik
+298,1,46,14.5,95.0,0.96,-1.35,2.17,Normal,Normal,Gizi Lebih
+299,1,46,14.0,91.6,-0.34,-1.92,0.86,Normal,Normal,Gizi Baik
+300,0,44,11.5,88.5,-0.44,0.97,-1.38,Normal,Normal,Gizi Baik
+301,1,42,11.4,91.0,-1.52,-1.45,-1.04,Normal,Normal,Gizi Baik
+302,0,41,13.8,94.0,-0.54,-0.56,-0.39,Normal,Normal,Gizi Baik
+303,1,41,12.1,95.5,-1.21,-2.33,0.03,Normal,Pendek,Gizi Baik
+304,0,41,15.4,95.5,-2.26,-1.97,-1.61,Kurang,Normal,Gizi Baik
+305,0,39,12.1,94.5,-2.86,-2.55,-2.15,Kurang,Pendek,Gizi Kurang
+306,0,38,13.2,88.0,-1.08,-0.46,-1.27,Normal,Normal,Gizi Baik
+307,1,35,11.3,88.0,-1.42,-2.7,0.02,Normal,Pendek,Gizi Baik
+308,0,35,10.6,84.0,-1.57,-0.77,-1.74,Normal,Normal,Gizi Baik
+309,0,34,11.8,85.3,-2.01,-1.99,-1.21,Kurang,Normal,Gizi Baik
+310,0,33,12.6,89.0,-2.27,-1.96,-1.59,Kurang,Normal,Gizi Baik
+311,1,33,15.2,93.5,-3.52,-4.42,-1.55,Sangat Kurang,Sangat Pendek,Gizi Baik
+312,0,32,9.0,78.0,1.08,0.24,1.28,Risiko Lebih,Normal,Risiko Gizi Lebih
+313,1,28,9.4,82.5,-0.81,-1.47,-0.05,Normal,Normal,Gizi Baik
+314,1,27,9.5,81.5,-1.44,-2.62,0.06,Normal,Pendek,Gizi Baik
+315,0,27,10.6,87.0,-2.45,-3.14,-0.93,Kurang,Sangat Pendek,Gizi Baik
+316,0,26,10.6,80.0,-1.57,-1.76,-0.82,Normal,Normal,Gizi Baik
+317,0,26,11.0,87.0,-0.9,-2.52,0.76,Normal,Pendek,Gizi Baik
+318,0,25,8.9,80.0,-1.66,-0.88,-1.8,Normal,Normal,Gizi Baik
+319,1,25,8.9,80.0,0.14,-0.91,1.01,Normal,Normal,Risiko Gizi Lebih
+320,0,25,10.7,80.5,-1.55,-0.7,-1.69,Normal,Normal,Gizi Baik
+321,1,23,10.6,84.0,-0.79,-1.37,-0.02,Normal,Normal,Gizi Baik
+322,1,23,9.4,81.0,-2.14,-1.99,-1.41,Kurang,Normal,Gizi Baik
+323,0,23,11.3,89.5,-2.48,-3.05,-1.08,Kurang,Sangat Pendek,Gizi Baik
+324,1,22,10.7,79.0,-0.82,-2.3,0.78,Normal,Pendek,Gizi Baik
+325,1,20,12.1,79.0,-0.59,-1.54,0.47,Normal,Normal,Gizi Baik
+326,0,19,9.8,81.5,-2.01,-2.6,-0.64,Kurang,Pendek,Gizi Baik
+327,1,18,11.2,80.0,-0.47,-1.95,1.08,Normal,Normal,Risiko Gizi Lebih
+328,0,16,10.4,78.0,-2.53,-3.03,-1.13,Kurang,Sangat Pendek,Gizi Baik
+329,1,16,7.9,71.5,-1.77,-1.7,-1.14,Normal,Normal,Gizi Baik
+330,0,14,9.2,73.0,-1.82,-2.24,-0.71,Normal,Pendek,Gizi Baik
+331,1,13,7.9,71.0,0.19,-0.2,0.48,Normal,Normal,Gizi Baik
+332,1,13,8.0,71.5,-0.11,-0.99,0.77,Normal,Normal,Gizi Baik
+333,0,13,8.0,72.0,-1.87,-2.46,-0.54,Normal,Pendek,Gizi Baik
+334,0,12,9.0,74.5,-1.91,-2.39,-0.71,Normal,Pendek,Gizi Baik
+335,0,11,8.0,73.7,-2.55,-2.73,-1.27,Kurang,Pendek,Gizi Baik
+336,1,10,9.2,75.0,-1.94,-2.59,-0.49,Normal,Pendek,Gizi Baik
+337,0,9,7.6,71.0,-1.66,-1.82,-0.85,Normal,Normal,Gizi Baik
+338,0,9,9.2,74.7,-1.78,-3.17,0.26,Normal,Sangat Pendek,Gizi Baik
+339,1,7,9.2,74.3,-1.64,-1.54,-1.1,Normal,Normal,Gizi Baik
+340,1,7,6.7,65.0,0.02,-0.97,0.93,Normal,Normal,Gizi Baik
+341,1,7,8.3,70.0,-2.42,-2.27,-1.51,Kurang,Pendek,Gizi Baik
+342,0,7,9.0,70.5,-2.0,-2.2,-1.03,Kurang,Pendek,Gizi Baik
+343,1,6,8.1,68.0,-1.41,-1.63,0.05,Normal,Normal,Gizi Baik
+344,1,6,6.0,61.0,-0.98,-0.88,-0.48,Normal,Normal,Gizi Baik
+345,0,5,6.2,60.0,0.99,2.35,-0.24,Normal,Normal,Gizi Baik
+346,1,5,7.1,64.0,-1.64,0.69,-2.7,Normal,Normal,Gizi Kurang
+347,0,5,6.2,62.0,0.63,1.1,0.18,Normal,Normal,Gizi Baik
+348,0,3,6.7,60.0,-0.8,-0.79,-0.51,Normal,Normal,Gizi Baik
+349,0,2,4.0,55.0,0.43,0.48,0.29,Normal,Normal,Gizi Baik
+350,1,2,4.9,55.7,0.39,1.2,-0.18,Normal,Normal,Gizi Baik
+351,0,1,3.2,51.0,-1.28,-1.11,-0.96,Normal,Normal,Gizi Baik
+352,0,55,14.5,96.0,-2.23,-2.14,-1.6,Kurang,Pendek,Gizi Baik
+353,1,50,12.8,102.0,-0.91,-0.16,-1.12,Normal,Normal,Gizi Baik
+354,0,49,12.3,96.0,0.03,-1.35,0.84,Normal,Normal,Gizi Baik
+355,0,48,12.5,95.0,-0.11,-0.44,0.12,Normal,Normal,Gizi Baik
+356,0,46,13.4,95.0,1.51,1.44,1.14,Risiko Lebih,Normal,Risiko Gizi Lebih
+357,0,41,12.7,91.5,-1.02,-0.17,-1.23,Normal,Normal,Gizi Baik
+358,0,37,11.1,91.5,1.97,2.73,0.91,Risiko Lebih,Normal,Gizi Baik
+359,1,36,13.8,92.2,-1.4,-0.75,-1.39,Normal,Normal,Gizi Baik
+360,0,36,13.2,93.5,-0.96,-2.98,0.61,Normal,Pendek,Gizi Baik
+361,0,34,10.8,89.5,-0.88,-0.11,-1.16,Normal,Normal,Gizi Baik
+362,1,31,11.9,88.5,-0.87,-0.61,-0.8,Normal,Normal,Gizi Baik
+363,0,30,9.7,85.2,-1.73,-1.12,-1.61,Normal,Normal,Gizi Baik
+364,0,28,7.9,77.0,-0.38,-0.95,0.16,Normal,Normal,Gizi Baik
+365,1,25,9.1,81.5,-2.92,-2.33,-2.38,Kurang,Pendek,Gizi Kurang
+366,1,16,7.5,73.5,0.25,-0.87,0.98,Normal,Normal,Gizi Baik
+367,0,10,9.0,74.0,-2.52,-0.79,-3.18,Kurang,Normal,Gizi Buruk
+368,1,10,7.3,70.0,-2.16,-1.2,-2.12,Kurang,Normal,Gizi Kurang
+369,0,9,8.1,69.5,-0.71,-1.34,0.01,Normal,Normal,Gizi Baik
+370,0,7,7.7,68.0,-0.73,-0.38,-0.82,Normal,Normal,Gizi Baik
+371,0,2,5.8,62.0,-1.22,-0.66,-1.29,Normal,Normal,Gizi Baik
+372,0,57,15.8,99.0,-0.74,-0.21,-0.92,Normal,Normal,Gizi Baik
+373,0,55,12.6,95.0,-1.4,-0.55,-1.64,Normal,Normal,Gizi Baik
+374,1,53,13.5,98.1,-1.57,-1.07,-1.4,Normal,Normal,Gizi Baik
+375,1,53,13.4,97.5,-1.93,-1.19,-1.92,Normal,Normal,Gizi Baik
+376,0,48,14.9,98.0,-1.12,-0.43,-1.31,Normal,Normal,Gizi Baik
+377,0,46,15.3,87.9,-1.6,-1.47,-1.08,Normal,Normal,Gizi Baik
+378,1,38,12.0,90.0,-0.17,-2.0,1.44,Normal,Pendek,Risiko Gizi Lebih
+379,1,35,10.5,83.3,-1.66,-0.76,-1.86,Normal,Normal,Gizi Baik
+380,1,27,11.2,87.0,-1.25,-2.15,0.09,Normal,Pendek,Gizi Baik
+381,1,27,9.6,80.0,-1.68,-1.76,-0.9,Normal,Normal,Gizi Baik
+382,1,26,11.2,90.5,-1.29,-1.38,-0.68,Normal,Normal,Gizi Baik
+383,1,18,9.8,80.0,-1.62,-1.43,-1.17,Normal,Normal,Gizi Baik
+384,0,14,10.1,81.0,-0.51,-0.8,-0.03,Normal,Normal,Gizi Baik
+385,1,9,7.3,69.0,-1.7,-2.23,-0.28,Normal,Pendek,Gizi Baik
+386,1,9,7.6,67.0,-0.07,1.56,-1.08,Normal,Normal,Gizi Baik
+387,0,9,7.9,70.0,-2.66,-3.62,-0.47,Kurang,Sangat Pendek,Gizi Baik
+388,0,9,9.0,74.0,-0.1,-0.21,0.05,Normal,Normal,Gizi Baik
+389,1,8,7.9,71.0,-2.72,-1.84,-2.36,Kurang,Normal,Gizi Kurang
+390,1,7,5.9,62.0,-0.49,-1.45,0.42,Normal,Normal,Gizi Baik
+391,1,5,6.6,63.0,-0.39,-0.63,-0.09,Normal,Normal,Gizi Baik
+392,1,3,5.8,60.0,1.5,0.18,1.8,Risiko Lebih,Normal,Risiko Gizi Lebih
+393,1,2,5.6,60.0,-1.91,-0.68,-2.19,Normal,Normal,Gizi Kurang
+394,0,57,15.9,99.5,-1.19,-0.94,-1.04,Normal,Normal,Gizi Baik
+395,0,57,15.3,97.2,-1.36,-0.38,-1.59,Normal,Normal,Gizi Baik
+396,0,56,17.4,103.5,-2.66,-2.65,-1.96,Kurang,Pendek,Gizi Baik
+397,0,52,14.4,97.8,-1.05,-0.77,-0.92,Normal,Normal,Gizi Baik
+398,1,52,14.5,98.6,-2.16,-1.54,-1.88,Kurang,Normal,Gizi Baik
+399,1,52,13.2,98.2,-2.55,-1.37,-2.61,Kurang,Normal,Gizi Kurang
+400,1,51,14.1,102.1,-0.62,-0.4,-0.63,Normal,Normal,Gizi Baik
+401,1,51,14.0,96.2,-0.79,-1.41,-0.07,Normal,Normal,Gizi Baik
+402,1,49,13.3,97.0,-3.66,-2.99,-3.05,Sangat Kurang,Pendek,Gizi Buruk
+403,1,45,14.7,99.0,-1.92,-2.22,-0.87,Normal,Pendek,Gizi Baik
+404,1,43,14.0,95.9,-0.31,-1.51,0.7,Normal,Normal,Gizi Baik
+405,1,43,12.0,92.0,-1.49,-1.34,-1.18,Normal,Normal,Gizi Baik
+406,0,43,12.0,92.0,-1.82,-0.91,-1.92,Normal,Normal,Gizi Baik
+407,1,42,13.5,91.3,-1.29,-1.34,-0.81,Normal,Normal,Gizi Baik
+408,0,42,14.8,98.5,0.69,0.3,0.69,Normal,Normal,Gizi Baik
+409,1,40,14.1,90.0,-2.63,-2.37,-1.97,Kurang,Pendek,Gizi Baik
+410,0,39,11.3,87.0,-1.37,-1.38,-0.96,Normal,Normal,Gizi Baik
+411,1,36,15.2,93.5,-0.97,-1.05,-0.62,Normal,Normal,Gizi Baik
+412,0,34,11.4,87.0,-0.47,-1.76,0.71,Normal,Normal,Gizi Baik
+413,1,34,10.2,83.0,0.25,-0.57,0.75,Normal,Normal,Gizi Baik
+414,1,33,13.1,86.5,-2.91,-2.68,-2.12,Kurang,Pendek,Gizi Kurang
+415,1,32,11.5,90.5,-2.48,-1.7,-2.38,Kurang,Normal,Gizi Kurang
+416,0,30,10.5,81.6,-0.82,-1.72,0.22,Normal,Normal,Gizi Baik
+417,1,29,10.5,80.8,-1.29,-1.22,-0.87,Normal,Normal,Gizi Baik
+418,1,29,12.2,82.6,-0.35,-0.79,0.13,Normal,Normal,Gizi Baik
+419,1,29,10.7,84.5,-1.86,-2.02,-0.99,Normal,Pendek,Gizi Baik
+420,1,28,10.2,81.5,-0.11,-0.53,0.27,Normal,Normal,Gizi Baik
+421,0,27,10.5,80.0,-2.45,-2.52,-1.56,Kurang,Pendek,Gizi Baik
+422,1,27,10.0,81.5,-2.42,-1.97,-1.84,Kurang,Normal,Gizi Baik
+423,0,26,11.0,78.0,-2.51,-2.11,-2.03,Kurang,Pendek,Gizi Kurang
+424,0,25,11.5,83.4,-1.39,-1.38,-0.9,Normal,Normal,Gizi Baik
+425,0,25,9.0,76.5,-1.93,-1.13,-1.95,Normal,Normal,Gizi Baik
+426,0,23,10.3,84.0,-1.62,-1.1,-1.48,Normal,Normal,Gizi Baik
+427,0,22,9.8,80.0,-1.8,-2.06,-0.89,Normal,Pendek,Gizi Baik
+428,0,22,10.9,78.0,-1.46,-1.73,-0.61,Normal,Normal,Gizi Baik
+429,0,21,8.2,77.0,-1.26,-0.33,-1.6,Normal,Normal,Gizi Baik
+430,1,21,9.0,75.5,-0.18,-0.99,0.64,Normal,Normal,Gizi Baik
+431,0,21,9.0,84.0,-2.24,-1.82,-1.69,Kurang,Normal,Gizi Baik
+432,0,19,10.0,81.0,-1.05,-2.01,0.27,Normal,Pendek,Gizi Baik
+433,1,18,10.4,82.0,-2.72,-2.48,-1.78,Kurang,Pendek,Gizi Baik
+434,0,16,8.1,74.0,-2.12,-2.49,-0.85,Kurang,Pendek,Gizi Baik
+435,0,16,9.3,74.0,-2.13,-2.19,-1.25,Kurang,Pendek,Gizi Baik
+436,1,16,10.0,72.0,-1.43,-1.86,-0.41,Normal,Normal,Gizi Baik
+437,0,16,9.6,77.5,-0.51,-1.29,0.46,Normal,Normal,Gizi Baik
+438,1,13,8.6,75.5,-1.11,-0.91,-0.9,Normal,Normal,Gizi Baik
+439,1,11,9.3,70.0,-2.24,-2.78,-0.75,Kurang,Pendek,Gizi Baik
+440,0,11,8.8,75.0,-0.7,-1.57,0.42,Normal,Normal,Gizi Baik
+441,1,11,8.2,71.0,-1.6,-1.61,-0.98,Normal,Normal,Gizi Baik
+442,1,9,7.8,71.5,-0.34,-0.83,0.61,Normal,Normal,Gizi Baik
+443,0,8,8.7,70.5,0.76,-0.33,1.33,Normal,Normal,Risiko Gizi Lebih
+444,0,8,8.3,67.5,-1.58,-0.65,-1.59,Normal,Normal,Gizi Baik
+445,1,8,7.4,59.0,0.47,0.56,0.31,Normal,Normal,Gizi Baik
+446,1,7,6.9,65.5,-1.27,-1.25,-0.79,Normal,Normal,Gizi Baik
+447,0,7,8.1,68.0,-0.14,0.28,-0.35,Normal,Normal,Gizi Baik
+448,0,7,8.1,66.5,-1.28,-0.71,-1.32,Normal,Normal,Gizi Baik
+449,0,5,6.1,61.5,-0.64,-1.49,0.04,Normal,Normal,Gizi Baik
+450,0,5,7.0,64.0,-1.21,-1.39,-0.74,Normal,Normal,Gizi Baik
+451,0,4,6.9,62.5,-2.24,-2.47,-1.34,Kurang,Pendek,Gizi Baik
+452,1,4,5.5,50.0,0.15,-1.06,0.93,Normal,Normal,Gizi Baik
+453,0,57,13.6,96.8,-0.72,-0.29,-0.84,Normal,Normal,Gizi Baik
+454,0,55,13.9,101.0,-1.05,-0.51,-1.14,Normal,Normal,Gizi Baik
+455,1,54,14.2,98.4,-1.47,-1.9,-0.61,Normal,Normal,Gizi Baik
+456,1,52,12.1,97.0,-2.5,-2.59,-1.59,Kurang,Pendek,Gizi Baik
+457,1,52,13.7,96.0,-2.04,-1.46,-1.71,Kurang,Normal,Gizi Baik
+458,1,51,13.4,99.0,-0.76,-0.99,-0.36,Normal,Normal,Gizi Baik
+459,0,50,13.1,93.0,-1.44,-0.75,-1.5,Normal,Normal,Gizi Baik
+460,1,49,15.2,103.0,-2.55,-2.08,-2.07,Kurang,Pendek,Gizi Kurang
+461,0,48,13.0,94.0,-2.86,-2.41,-1.97,Kurang,Pendek,Gizi Baik
+462,0,46,11.3,89.5,-2.58,-1.41,-2.78,Kurang,Normal,Gizi Kurang
+463,0,45,10.6,91.5,-2.62,-1.92,-2.37,Kurang,Normal,Gizi Kurang
+464,0,45,12.1,94.5,-1.62,-2.05,-0.62,Normal,Pendek,Gizi Baik
+465,0,44,14.1,93.5,-2.43,-2.3,-1.74,Kurang,Pendek,Gizi Baik
+466,1,44,10.9,90.5,-0.77,0.05,-1.2,Normal,Normal,Gizi Baik
+467,1,43,12.0,93.7,-0.58,-0.29,-0.64,Normal,Normal,Gizi Baik
+468,1,43,12.3,95.5,-0.16,-2.21,1.55,Normal,Pendek,Risiko Gizi Lebih
+469,1,42,12.4,93.1,-2.61,-3.8,-0.51,Kurang,Sangat Pendek,Gizi Baik
+470,1,41,11.0,90.0,-1.73,-2.35,-0.5,Normal,Pendek,Gizi Baik
+471,1,40,11.1,90.0,-0.76,-1.48,0.17,Normal,Normal,Gizi Baik
+472,1,40,12.9,92.0,-2.28,-2.18,-1.44,Kurang,Pendek,Gizi Baik
+473,1,40,9.7,83.0,-0.71,-0.95,-0.21,Normal,Normal,Gizi Baik
+474,1,39,12.4,89.5,-1.19,-1.54,-0.39,Normal,Normal,Gizi Baik
+475,1,37,9.3,84.0,-2.06,-1.26,-1.93,Kurang,Normal,Gizi Baik
+476,1,35,12.7,86.2,-2.0,-3.66,0.34,Kurang,Sangat Pendek,Gizi Baik
+477,1,35,12.0,92.0,-2.39,-1.7,-2.15,Kurang,Normal,Gizi Kurang
+478,1,34,12.0,89.1,-2.0,-2.34,-0.84,Kurang,Pendek,Gizi Baik
+479,1,33,10.3,84.5,-1.91,-2.0,-1.07,Normal,Pendek,Gizi Baik
+480,1,31,9.3,83.5,0.23,0.28,0.06,Normal,Normal,Gizi Baik
+481,1,29,11.2,87.4,-1.5,-1.11,-1.25,Normal,Normal,Gizi Baik
+482,0,29,13.1,84.5,-2.61,-2.05,-2.16,Kurang,Pendek,Gizi Kurang
+483,1,29,11.7,86.2,-1.72,-1.66,-1.04,Normal,Normal,Gizi Baik
+484,1,27,10.2,86.0,0.92,1.2,-0.33,Normal,Normal,Gizi Baik
+485,1,27,9.9,85.0,-1.2,-0.66,-0.85,Normal,Normal,Gizi Baik
+486,1,26,8.0,77.0,-1.97,-0.94,-1.74,Normal,Normal,Gizi Baik
+487,1,25,9.4,79.5,-0.24,0.08,-0.4,Normal,Normal,Gizi Baik
+488,0,23,11.0,86.0,1.28,1.06,1.01,Risiko Lebih,Normal,Risiko Gizi Lebih
+489,1,22,8.2,78.0,0.15,0.82,-0.31,Normal,Normal,Gizi Baik
+490,1,21,9.9,74.2,-1.88,-4.34,1.17,Normal,Sangat Pendek,Risiko Gizi Lebih
+491,1,20,9.1,79.0,-1.88,-0.81,-1.95,Normal,Normal,Gizi Baik
+492,1,18,9.1,82.0,-1.14,-1.73,-0.36,Normal,Normal,Gizi Baik
+493,0,18,13.1,77.0,-0.82,-1.35,-0.22,Normal,Normal,Gizi Baik
+494,1,18,8.6,77.5,-1.65,-0.8,-1.78,Normal,Normal,Gizi Baik
+495,0,18,8.6,81.0,-1.74,-1.08,-1.73,Normal,Normal,Gizi Baik
+496,1,18,8.6,71.3,-0.09,-0.74,0.3,Normal,Normal,Gizi Baik
+497,1,16,8.1,76.5,-2.36,-1.49,-2.34,Kurang,Normal,Gizi Kurang
+498,0,14,9.0,71.8,-1.86,-3.19,-0.35,Normal,Sangat Pendek,Gizi Baik
+499,1,14,8.6,66.8,-0.83,-1.02,-0.46,Normal,Normal,Gizi Baik
+500,1,11,9.4,68.0,-0.57,-2.89,1.1,Normal,Pendek,Risiko Gizi Lebih
+501,0,10,8.0,64.0,-1.7,-1.23,-1.51,Normal,Normal,Gizi Baik
+502,0,9,7.2,66.5,-0.59,-0.88,-0.21,Normal,Normal,Gizi Baik
+503,1,9,8.0,61.0,-0.8,-0.84,-0.5,Normal,Normal,Gizi Baik
+504,0,9,6.5,66.0,-1.48,-0.91,-1.42,Normal,Normal,Gizi Baik
+505,1,8,7.1,69.5,-0.22,-0.75,0.21,Normal,Normal,Gizi Baik
+506,0,8,6.2,60.0,-0.73,-0.65,-0.57,Normal,Normal,Gizi Baik
+507,1,7,6.3,64.5,-2.26,-2.34,-1.42,Kurang,Pendek,Gizi Baik
+508,1,7,7.1,68.0,-0.2,-0.52,0.06,Normal,Normal,Gizi Baik
+509,1,5,6.2,59.5,-1.92,-1.48,-1.57,Normal,Normal,Gizi Baik
+510,1,2,6.0,57.5,-2.39,-2.46,-1.62,Kurang,Pendek,Gizi Baik
+511,0,2,4.9,55.7,-1.5,-2.7,-0.21,Normal,Pendek,Gizi Baik
+512,0,58,14.7,99.0,-1.42,-1.42,-0.92,Normal,Normal,Gizi Baik
+513,1,58,23.6,108.0,-1.76,-1.35,-1.48,Normal,Normal,Gizi Baik
+514,1,57,15.5,105.0,-0.21,-0.33,-0.11,Normal,Normal,Gizi Baik
+515,0,56,15.4,98.2,-1.34,-1.16,-1.01,Normal,Normal,Gizi Baik
+516,0,55,13.0,98.8,-3.24,-3.21,-2.21,Sangat Kurang,Sangat Pendek,Gizi Kurang
+517,0,55,13.5,97.5,-2.52,-2.27,-1.85,Kurang,Pendek,Gizi Baik
+518,0,54,12.7,99.0,-1.93,-2.52,-0.78,Normal,Pendek,Gizi Baik
+519,0,52,11.5,94.0,-2.89,-2.63,-2.08,Kurang,Pendek,Gizi Kurang
+520,0,52,13.3,93.3,-2.51,-2.33,-1.59,Kurang,Pendek,Gizi Baik
+521,1,51,14.3,98.0,-0.79,-1.19,-0.24,Normal,Normal,Gizi Baik
+522,0,51,12.3,95.0,-1.94,-1.76,-1.46,Normal,Normal,Gizi Baik
+523,1,50,15.0,99.7,-3.36,-2.24,-3.18,Sangat Kurang,Pendek,Gizi Buruk
+524,1,50,14.4,98.0,-1.52,-1.67,-0.82,Normal,Normal,Gizi Baik
+525,0,48,12.2,92.5,-1.6,-1.11,-1.44,Normal,Normal,Gizi Baik
+526,1,46,12.5,97.5,-2.67,-2.14,-2.21,Kurang,Pendek,Gizi Kurang
+527,1,46,14.4,94.0,-1.77,-0.96,-1.81,Normal,Normal,Gizi Baik
+528,1,45,11.3,93.5,-1.09,-2.1,0.09,Normal,Pendek,Gizi Baik
+529,1,44,17.7,97.5,-1.63,-1.16,-1.55,Normal,Normal,Gizi Baik
+530,0,43,11.6,91.0,-0.16,-1.18,0.64,Normal,Normal,Gizi Baik
+531,1,43,12.7,92.0,-1.91,-0.93,-2.05,Normal,Normal,Gizi Kurang
+532,0,42,11.8,93.0,-1.91,-1.24,-1.91,Normal,Normal,Gizi Baik
+533,1,42,12.8,95.0,-1.77,-1.72,-1.14,Normal,Normal,Gizi Baik
+534,0,41,14.9,96.7,-1.25,-1.56,-0.61,Normal,Normal,Gizi Baik
+535,1,41,12.3,96.0,-1.89,-1.76,-1.28,Normal,Normal,Gizi Baik
+536,0,40,12.0,91.5,-2.29,-1.65,-1.94,Kurang,Normal,Gizi Baik
+537,0,39,11.6,93.5,-2.63,-2.5,-1.62,Kurang,Pendek,Gizi Baik
+538,1,39,12.3,93.0,-1.37,-1.5,-0.83,Normal,Normal,Gizi Baik
+539,1,38,11.2,88.5,-2.4,-3.7,-0.11,Kurang,Sangat Pendek,Gizi Baik
+540,1,38,12.0,79.5,-1.7,-1.7,-1.15,Normal,Normal,Gizi Baik
+541,1,37,11.5,89.0,-1.91,-2.34,-0.9,Normal,Pendek,Gizi Baik
+542,0,37,11.0,91.0,-4.41,-4.16,-2.81,Sangat Kurang,Sangat Pendek,Gizi Kurang
+543,1,36,12.2,84.5,-2.33,-2.29,-1.4,Kurang,Pendek,Gizi Baik
+544,0,35,10.8,89.5,-1.54,-0.75,-1.62,Normal,Normal,Gizi Baik
+545,0,34,11.5,84.0,-0.94,-0.58,-0.87,Normal,Normal,Gizi Baik
+546,1,34,10.2,84.0,-3.01,-3.58,-1.09,Sangat Kurang,Sangat Pendek,Gizi Baik
+547,0,34,11.0,87.5,-2.15,-1.67,-1.81,Kurang,Normal,Gizi Baik
+548,0,31,10.5,85.0,-1.98,-1.59,-1.61,Normal,Normal,Gizi Baik
+549,1,30,11.0,90.0,-2.13,-2.11,-1.27,Kurang,Pendek,Gizi Baik
+550,0,30,10.0,83.5,-2.3,-2.28,-1.36,Kurang,Pendek,Gizi Baik
+551,1,29,11.2,81.7,-3.43,-4.38,-0.93,Sangat Kurang,Sangat Pendek,Gizi Baik
+552,0,28,9.5,79.0,-2.19,-2.26,-1.29,Kurang,Pendek,Gizi Baik
+553,0,25,8.8,80.0,-1.48,-0.97,-1.34,Normal,Normal,Gizi Baik
+554,0,23,10.1,83.0,-2.31,-1.77,-1.83,Kurang,Normal,Gizi Baik
+555,0,20,8.3,78.0,-2.13,-2.39,-0.96,Kurang,Pendek,Gizi Baik
+556,1,19,9.0,77.5,-1.08,-0.29,-1.44,Normal,Normal,Gizi Baik
+557,0,19,9.0,77.0,-2.15,-1.68,-1.69,Kurang,Normal,Gizi Baik
+558,1,18,10.0,78.0,-2.65,-2.01,-2.11,Kurang,Pendek,Gizi Kurang
+559,1,17,7.8,72.1,-2.35,-2.13,-1.67,Kurang,Pendek,Gizi Baik
+560,1,16,8.1,75.5,-1.61,-1.33,-1.2,Normal,Normal,Gizi Baik
+561,0,16,8.2,74.5,-1.77,-1.85,-0.94,Normal,Normal,Gizi Baik
+562,0,13,8.0,72.5,-2.46,-2.07,-1.76,Kurang,Pendek,Gizi Baik
+563,0,12,9.0,69.8,-1.33,-0.5,-1.67,Normal,Normal,Gizi Baik
+564,0,11,8.5,70.5,1.19,-0.59,2.31,Risiko Lebih,Normal,Gizi Lebih
+565,0,11,6.0,67.5,-2.82,-1.94,-2.45,Kurang,Normal,Gizi Kurang
+566,1,8,10.0,75.0,-0.76,0.32,-1.57,Normal,Normal,Gizi Baik
+567,1,7,6.2,64.5,-0.47,-0.7,0.04,Normal,Normal,Gizi Baik
+568,0,7,6.0,63.5,-2.21,-2.56,-0.26,Kurang,Pendek,Gizi Baik
+569,0,5,5.7,61.0,0.23,-1.03,1.17,Normal,Normal,Risiko Gizi Lebih
+570,1,4,7.0,61.0,-1.34,-0.63,-1.26,Normal,Normal,Gizi Baik
+571,1,4,6.0,61.5,-0.64,-0.65,-0.33,Normal,Normal,Gizi Baik
+572,1,3,5.0,57.5,-1.38,-0.3,-1.6,Normal,Normal,Gizi Baik
+573,1,2,4.7,57.5,-2.0,-0.41,-2.44,Kurang,Normal,Gizi Kurang
+574,1,58,16.5,108.0,-1.44,0.82,-2.47,Normal,Normal,Gizi Kurang
+575,1,56,12.6,96.5,0.54,-3.33,3.11,Normal,Sangat Pendek,Obesitas
+576,1,55,15.4,108.0,-3.43,-1.69,-3.62,Sangat Kurang,Normal,Gizi Buruk
+577,1,55,14.5,100.0,-1.07,-0.13,-1.37,Normal,Normal,Gizi Baik
+578,0,55,15.3,101.5,-0.95,-0.45,-1.03,Normal,Normal,Gizi Baik
+579,1,51,14.3,100.0,-1.65,-0.46,-1.98,Normal,Normal,Gizi Baik
+580,1,50,11.3,92.0,-4.33,-4.06,-2.91,Sangat Kurang,Sangat Pendek,Gizi Kurang
+581,0,49,13.2,98.0,-2.18,-1.44,-2.06,Kurang,Normal,Gizi Kurang
+582,1,49,14.5,98.9,0.08,-0.45,0.36,Normal,Normal,Gizi Baik
+583,1,48,17.2,100.0,-0.78,0.02,-1.1,Normal,Normal,Gizi Baik
+584,0,47,12.3,96.0,-1.2,-2.95,0.39,Normal,Pendek,Gizi Baik
+585,1,45,12.0,93.5,-2.8,-2.79,-1.95,Kurang,Pendek,Gizi Baik
+586,1,44,12.9,96.0,-2.95,-1.81,-2.98,Kurang,Normal,Gizi Kurang
+587,1,40,9.3,87.5,-0.43,-1.45,0.29,Normal,Normal,Gizi Baik
+588,0,37,12.5,93.5,-1.14,-0.91,-0.99,Normal,Normal,Gizi Baik
+589,1,35,11.7,89.5,-1.46,-0.85,-1.43,Normal,Normal,Gizi Baik
+590,1,34,11.0,88.0,-2.77,-2.52,-2.18,Kurang,Pendek,Gizi Kurang
+591,1,34,12.0,94.0,-2.47,-2.23,-1.93,Kurang,Pendek,Gizi Baik
+592,1,34,9.9,85.0,-1.13,-3.52,0.88,Normal,Sangat Pendek,Gizi Baik
+593,1,33,12.1,88.0,-1.23,-1.43,-0.68,Normal,Normal,Gizi Baik
+594,0,33,11.1,86.5,0.0,0.71,-0.62,Normal,Normal,Gizi Baik
+595,1,33,11.2,88.9,-2.6,-1.43,-2.54,Kurang,Normal,Gizi Kurang
+596,0,31,10.0,82.0,-2.65,-2.32,-1.91,Kurang,Pendek,Gizi Baik
+597,0,30,10.2,86.5,-1.46,-0.72,-1.54,Normal,Normal,Gizi Baik
+598,0,29,10.3,85.0,-0.55,-0.96,-0.09,Normal,Normal,Gizi Baik
+599,1,29,12.6,82.7,-1.41,-2.13,-0.28,Normal,Pendek,Gizi Baik
+600,0,28,8.9,80.0,-2.02,-1.31,-2.01,Kurang,Normal,Gizi Kurang
+601,0,26,10.0,81.5,-3.24,-3.67,-1.37,Sangat Kurang,Sangat Pendek,Gizi Baik
+602,1,25,9.9,83.0,-2.78,-2.41,-1.88,Kurang,Pendek,Gizi Baik
+603,1,25,11.3,90.0,-1.0,-0.74,-0.91,Normal,Normal,Gizi Baik
+604,1,24,9.0,80.0,-2.46,-2.63,-1.46,Kurang,Pendek,Gizi Baik
+605,1,23,10.1,84.5,-2.11,-2.39,-1.16,Kurang,Pendek,Gizi Baik
+606,1,23,8.2,76.0,-0.8,-0.68,-0.66,Normal,Normal,Gizi Baik
+607,0,22,10.3,79.0,-1.72,-2.1,-0.72,Normal,Pendek,Gizi Baik
+608,1,21,8.5,80.0,-0.7,-0.86,-0.32,Normal,Normal,Gizi Baik
+609,0,21,11.5,79.5,2.55,0.85,3.04,Risiko Lebih,Normal,Obesitas
+610,1,19,10.8,82.0,-1.82,-1.16,-1.8,Normal,Normal,Gizi Baik
+611,0,19,10.1,81.0,-2.28,-1.86,-1.91,Kurang,Normal,Gizi Baik
+612,0,19,9.4,80.0,-1.95,-2.02,-1.24,Normal,Pendek,Gizi Baik
+613,1,18,7.7,72.0,-1.54,-1.41,-1.06,Normal,Normal,Gizi Baik
+614,0,16,8.7,79.0,-0.64,-1.03,-0.01,Normal,Normal,Gizi Baik
+615,0,16,8.5,73.0,-3.29,-2.29,-2.86,Sangat Kurang,Pendek,Gizi Kurang
+616,1,10,9.0,73.0,-0.77,-1.13,-0.12,Normal,Normal,Gizi Baik
+617,1,10,7.8,70.0,1.27,0.68,1.28,Risiko Lebih,Normal,Risiko Gizi Lebih
+618,0,10,9.2,74.5,-1.85,-1.94,-0.99,Normal,Normal,Gizi Baik
+619,1,9,7.0,67.5,-1.59,-1.75,-0.81,Normal,Normal,Gizi Baik
+620,0,9,7.6,67.5,-2.38,-2.52,-1.21,Kurang,Pendek,Gizi Baik
+621,1,7,6.5,65.0,-2.69,-1.97,-2.22,Kurang,Normal,Gizi Kurang
+622,1,7,6.1,65.5,-2.41,-2.46,-1.43,Kurang,Pendek,Gizi Baik
+623,1,2,5.6,60.0,-1.11,-1.57,-0.45,Normal,Normal,Gizi Baik
